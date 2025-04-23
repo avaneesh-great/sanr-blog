@@ -35,7 +35,7 @@ This blog will provide:
 
 ## 🖥️ How to Use This Blog
 
-1. **Visit the Homepage**: You can find our blog hosted on GitHub Pages at [https://your-username.github.io/sanr-blog/](https://your-username.github.io/sanr-blog/) (replace "your-username" with your actual GitHub username).
+1. **Visit the Homepage**: You can find our blog hosted on GitHub Pages at [https://your-username.github.io/sanr-blog/](https://your-username.github.io/sanr-blog/) (replace "avaneesh-great" with your  sanr-blog).
 2. **Navigate Through Sections**: The blog will have various categories like Videos, News, and Articles that you can explore.
 3. **Watch Videos**: Click on any video link to watch the latest uploads.
 4. **Stay Updated**: Regular
