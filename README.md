@@ -40,49 +40,7 @@ This blog will provide:
 3. **Watch Videos**: Click on any video link to watch the latest uploads.
 4. **Stay Updated**: Regular
 5. <a href="https://your-hosting-link.com/captain-avaneesh-quiz.apk" download>Download Captain Avaneesh Quiz</a> this is my first game
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>SANR Allrounders Blog</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      background: #f0f0f0;
-      margin: 0;
-      padding: 20px;
-      text-align: center;
-    }
-    h1 {
-      color: #2196F3;
-    }
-    .video {
-      margin: 30px auto;
-      max-width: 560px;
-    }
-    iframe {
-      width: 100%;
-      height: 315px;
-      border: none;
-      border-radius: 10px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-    }
-  </style>
-</head>
-<body>
-  <h1>🎥 SANR Allrounders YouTube Blog</h1>
-  <p>🔥 Explore our latest videos and content below 👇</p>
 
-  <div class="video">
-    <h2>My Cool Video #1</h2>
-    <iframe src="https://www.youtube.com/embed/VIDEO_ID_1" allowfullscreen></iframe>
-  </div>
-
-  <div class="video">
-    <h2>My Cool Video #2</h2>
-    <iframe src="https://www.youtube.com/embed/VIDEO_ID_2" allowfullscreen></iframe>
-  </div>
 
   <!-- Add more videos here -->
 </body>
