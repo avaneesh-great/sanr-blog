@@ -39,3 +39,4 @@ This blog will provide:
 2. **Navigate Through Sections**: The blog will have various categories like Videos, News, and Articles that you can explore.
 3. **Watch Videos**: Click on any video link to watch the latest uploads.
 4. **Stay Updated**: Regular
+5. <a href="https://your-hosting-link.com/captain-avaneesh-quiz.apk" download>Download Captain Avaneesh Quiz</a>
