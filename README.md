@@ -38,11 +38,4 @@ This blog will provide:
 1. **Visit the Homepage**: You can find our blog hosted on GitHub Pages at [https://your-username.github.io/sanr-blog/](https://your-username.github.io/sanr-blog/) (replace "your-username" with your actual GitHub username).
 2. **Navigate Through Sections**: The blog will have various categories like Videos, News, and Articles that you can explore.
 3. **Watch Videos**: Click on any video link to watch the latest uploads.
-4. **Stay Updated**: Regularly check for new posts and content.
-
-## 🛠️ How to Contribute
-
-We welcome contributions! If you want to add articles, videos, or suggestions, here’s how you can contribute:
-
-1. **Fork the Repository**: Click on the "Fork" button at the top right of this page.
-2. **Clone the**
+4. **Stay Updated**: Regular
